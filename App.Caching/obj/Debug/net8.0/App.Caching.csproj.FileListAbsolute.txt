@@ -1,0 +1,12 @@
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\bin\Debug\net8.0\App.Caching.deps.json
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\bin\Debug\net8.0\App.Caching.dll
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\bin\Debug\net8.0\App.Caching.pdb
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.AssemblyInfoInputs.cache
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.AssemblyInfo.cs
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.csproj.CoreCompileInputs.cache
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.sourcelink.json
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.dll
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\refint\App.Caching.dll
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\App.Caching.pdb
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Caching\obj\Debug\net8.0\ref\App.Caching.dll

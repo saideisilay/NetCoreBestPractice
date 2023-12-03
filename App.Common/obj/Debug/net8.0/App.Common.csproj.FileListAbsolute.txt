@@ -1,0 +1,12 @@
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\bin\Debug\net8.0\App.Common.deps.json
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\bin\Debug\net8.0\App.Common.dll
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\bin\Debug\net8.0\App.Common.pdb
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.AssemblyInfoInputs.cache
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.AssemblyInfo.cs
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.csproj.CoreCompileInputs.cache
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.sourcelink.json
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.dll
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\refint\App.Common.dll
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\App.Common.pdb
+C:\GITHUB\NetCoreBestPractice\BestPractices\App.Common\obj\Debug\net8.0\ref\App.Common.dll
